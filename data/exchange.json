@@ -120,5 +120,21 @@
     4,
     6,
     7
+  ],
+  "read_windows": [
+    {
+      "arrival": 4,
+      "center": "west",
+      "grid": [
+        "g2"
+      ]
+    },
+    {
+      "arrival": 5,
+      "center": "north",
+      "grid": [
+        "g1"
+      ]
+    }
   ]
 }

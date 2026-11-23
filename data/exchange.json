@@ -121,6 +121,10 @@
     6,
     7
   ],
+  "max_update_work": {
+    "other_member_scan": 0,
+    "other_summary_page_reads": 128
+  },
   "read_windows": [
     {
       "arrival": 4,
